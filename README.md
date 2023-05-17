@@ -8,4 +8,5 @@ The device constantly monitors Co levels and once a concerning level is present,
 Next steps for this project is to add an rfid reader, contain it in a box and possibly create a pcb for a demo product.
 
 The goal of the project is to create this product and make it a standard in todays garage machines. 
+
 ![IMG_8507](https://github.com/BigboiUzi/Guardian-Garage-Opener/assets/116571414/1a5d8684-6614-43d6-b1c4-3ac03a615f14)
