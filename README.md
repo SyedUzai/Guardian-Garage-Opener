@@ -1,3 +1,4 @@
+![IMG_8507](https://github.com/BigboiUzi/Guardian-Garage-Opener/assets/116571414/1a5d8684-6614-43d6-b1c4-3ac03a615f14)
 # Guardian-Garage-Opener
 Garage opener which opens automatically once a toxic level of carbon monoxide is in the garage
 The Project utilizes an arduino uno, a relay, battery, MQ7 sensor, garage opener circuit board, a switch and a bunch of wires.
