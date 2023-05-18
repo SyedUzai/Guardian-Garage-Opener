@@ -8,5 +8,5 @@ The device constantly monitors Co levels and once a concerning level is present,
 The next steps for this project is to add an rfid reader, contain it in a box and possibly create a pcb for a demo product.
 
 The Final goal is to create a product and make it a standard in todays garage machines. 
-
+Below is the testable circuit and the illustration of the wiring using Fritzing. 
 ![IMG_8507](https://github.com/BigboiUzi/Guardian-Garage-Opener/assets/116571414/1a5d8684-6614-43d6-b1c4-3ac03a615f14)
