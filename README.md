@@ -1,12 +1,12 @@
 # Guardian-Garage-Opener
-Garage opener which opens automatically once a toxic level of carbon monoxide is in the garage. 
-The Project utilizes an arduino uno, a relay, battery, MQ7 sensor, garage opener circuit board, a switch and a bunch of wires.
+Garage opening device which opens automatically opens a garage once a toxic level of carbon monoxide is detected. 
+The Project utilizes an arduino uno, a relay, battery, MQ7 sensor, garage opener circuit board, led, resistors, a switch and a bunch of wires.
 
 The use of this device is to prevent people from possible death due to carbon monoxide poisoning from an idle car in a garage.
-The device constantly monitors Co levels and once a concerning level is present, the device will automatically open the garage to reduce the amount of co. 
+The device constantly monitors Co levels and once a concerning level is present, the device will automatically open the garage to reduce the amount of co. After that, the device will wait for 2 and a half minutes and check if the co level is still deadly. If it is, the garage will continue to stay open until the co level is safe in which the garage will automatically close. In addition, the device also has a usable switch which can be used as a normal garage opener. 
 
-Next steps for this project is to add an rfid reader, contain it in a box and possibly create a pcb for a demo product.
+The next steps for this project is to add an rfid reader, contain it in a box and possibly create a pcb for a demo product.
 
-The goal of the project is to create this product and make it a standard in todays garage machines. 
+The Final goal is to create a product and make it a standard in todays garage machines. 
 
 ![IMG_8507](https://github.com/BigboiUzi/Guardian-Garage-Opener/assets/116571414/1a5d8684-6614-43d6-b1c4-3ac03a615f14)
